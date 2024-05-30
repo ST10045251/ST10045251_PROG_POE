@@ -33,3 +33,9 @@ You can find the GitHub repository for this project https://github.com/ST1004525
 
 ### LoadRecipe Method
 - Added a method that prompts the user to enter a filename to load the recipe.
+
+### New Methods in the Recipes Class
+#### SaveRecipe Method
+- Implemented JSON serialization to save the current recipe to a file.
+#### LoadRecipe Method
+- Implemented JSON deserialization to load a recipe from a file.
