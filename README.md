@@ -39,3 +39,6 @@ You can find the GitHub repository for this project https://github.com/ST1004525
 - Implemented JSON serialization to save the current recipe to a file.
 #### LoadRecipe Method
 - Implemented JSON deserialization to load a recipe from a file.
+
+### Error Handling
+- Handled potential null reference exceptions when loading and saving files by adding validation checks.
