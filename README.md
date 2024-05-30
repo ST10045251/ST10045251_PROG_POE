@@ -51,3 +51,6 @@ You can find the GitHub repository for this project https://github.com/ST1004525
 
 ### Improved User Input Handling
 - Better processing of user input to guarantee that filenames are supplied when loading and storing recipes.
+
+### User Feedback
+- gave users unambiguous feedback messages indicating whether save and load activities were successful or unsuccessful.
