@@ -48,3 +48,6 @@ You can find the GitHub repository for this project https://github.com/ST1004525
 
 ### Sample Data for Demonstration
 - To show functionality, example ingredients and steps have been added to the SaveRecipe and LoadRecipe methods.
+
+### Improved User Input Handling
+- Better processing of user input to guarantee that filenames are supplied when loading and storing recipes.
