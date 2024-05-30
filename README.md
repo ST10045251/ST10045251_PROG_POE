@@ -45,3 +45,6 @@ You can find the GitHub repository for this project https://github.com/ST1004525
 
 ### Integration with Main Program
 - Integrated the save and load methods with the main program workflow.
+
+### Sample Data for Demonstration
+- To show functionality, example ingredients and steps have been added to the SaveRecipe and LoadRecipe methods.
