@@ -19,7 +19,8 @@ You can find the GitHub repository for this project https://github.com/ST1004525
 ## Changes and Additions to the Recipe Journal Code
 ### Introduction of File Saving and Loading
 - The ability to load and save recipes to and from JSON files has been added.
-Added Methods in Recipes Class
+
+### Added Methods in Recipes Class
 - included a way to store the active recipe in a designated file.
 - included a way to import a recipe from a given file.
 
