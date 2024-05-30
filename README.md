@@ -42,3 +42,6 @@ You can find the GitHub repository for this project https://github.com/ST1004525
 
 ### Error Handling
 - Handled potential null reference exceptions when loading and saving files by adding validation checks.
+
+### Integration with Main Program
+- Integrated the save and load methods with the main program workflow.
