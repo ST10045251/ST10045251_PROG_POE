@@ -17,7 +17,7 @@ To compile and run the software, follow these steps:
 You can find the GitHub repository for this project https://github.com/ST10045251/ST10045251_PROG_POE.git.
 
 ## Changes and Additions to the Recipe Journal Code
-Introduction of File Saving and Loading
+### Introduction of File Saving and Loading
 - The ability to load and save recipes to and from JSON files has been added.
 Added Methods in Recipes Class
 - included a way to store the active recipe in a designated file.
