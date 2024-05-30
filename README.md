@@ -27,3 +27,5 @@ Added Methods in Recipes Class
 Main Menu
 - Included options to save and load recipes in the main menu.
 
+### SaveRecipe Method
+- Added a feature where saving the recipe requires the user to provide a filename.
