@@ -30,3 +30,6 @@ You can find the GitHub repository for this project https://github.com/ST1004525
 
 ### SaveRecipe Method
 - Added a feature where saving the recipe requires the user to provide a filename.
+
+### LoadRecipe Method
+- Added a method that prompts the user to enter a filename to load the recipe.
